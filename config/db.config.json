@@ -7,5 +7,14 @@
             "host":"localhost",
             "dialect": "mysql"
         }
+    },
+    "production":{
+        "database":"nodeecommerce",
+        "username":"ecommerce_user",
+        "password":"ecommerce_pwd",
+        "hostDialect" : {
+            "host":"db4free.net",
+            "dialect": "mysql"
+        }
     }
 }
