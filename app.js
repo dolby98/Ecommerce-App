@@ -39,7 +39,7 @@ require('./routes/product.routes')(app);
 require('./routes/auth.routes')(app);
 require('./routes/cart.routes')(app);
 
-app.listen(serverConfig.PORT, async ()=>{
+app.listen(process.env.PORT || serverConfig.PORT, async ()=>{
     console.log("Server has started");
     
     // await db.sequelize.authenticate().then(() => { When we are syncing , it automatically authenticates: so no use of this
