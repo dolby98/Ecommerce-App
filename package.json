@@ -1,0 +1,30 @@
+{
+  "name": "ecomapp",
+  "version": "1.0.0",
+  "description": "ecommerce is app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "jest"
+  },
+  "keywords": [
+    "ecom",
+    "ecommerce",
+    "online",
+    "products",
+    "app"
+  ],
+  "author": "dolby agarwal",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "jest": "^27.5.1",
+    "jsonwebtoken": "^8.5.1",
+    "morgan": "^1.10.0",
+    "mysql2": "^2.3.3",
+    "odata-sequelize": "^1.0.22",
+    "sequelize": "^6.17.0"
+  }
+}

@@ -1,0 +1,11 @@
+{
+    "dev":{
+        "database":"ecommerce",
+        "username":"root",
+        "password":"dolby",
+        "hostDialect" : {
+            "host":"localhost",
+            "dialect": "mysql"
+        }
+    }
+}

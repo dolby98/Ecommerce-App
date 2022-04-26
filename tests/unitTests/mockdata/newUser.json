@@ -1,0 +1,27 @@
+{
+    "user1":{
+            "username":"testUser",
+            "email":"test@abcd.com",
+            "password":"test.pwd",
+            "mobile":"9768028",
+            "roles":["admin","user"]
+        },
+    "user2":{
+        "username":"testUser",
+        "email":"test@abcd.com",
+        "password":"test.pwd",
+        "mobile":"9768028"
+    },
+    "user3":{
+        "username":"testUser",
+        "email":"test@abcd.com",
+        "password":"test.pwd",
+        "mobile":"9768028"
+    },
+
+    "user4":{
+        "username":"testLogin",
+        "password":"password"
+    }
+    
+}
