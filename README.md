@@ -3,6 +3,8 @@ Backend development using Node,Express,MySQL
 
 API Documentation : https://documenter.getpostman.com/view/16500150/UyrEgEL8
 
+App is hosted on -> https://nodejsecomm.herokuapp.com/
+
 I have created an app for ecommerce backend using NodeJS, Express and MySQL.
 
 It has the following functionalities:
